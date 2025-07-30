@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+.navv{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: grey;
+    padding: 15px 30px;
+}
+.navv .ptf{
+    color: black;
+    font-size: 24px;
+    font-weight: bold;
+
+
+}
+.navv .navit{
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
